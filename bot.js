@@ -127,5 +127,5 @@ if (!rank) return message.reply(' ')
 });
 
 
-client.login("NjAzMzQxMTg3OTE0Mzk5Nzcy.XThgEg.9y-u1iVmb_YEL3MfkrAuRWZoKlc");
-client2.login("NjAzNTgyNzc2NTUzNTA0NzY5.XThg8Q.HNzn2KOoVLsDVbjSZZX4HVG_QlQ");
+client.login("NjAzNTgyNzc2NTUzNTA0NzY5.XTigfg.0xLvs-_xlk8hE2T7HmH64F2IrRU");
+client2.login("NjAzMTkyODM5MDQ4MDAzNjA1.XTihdg.xitL0j3xg5_5yozciHMAIowwIAE");
